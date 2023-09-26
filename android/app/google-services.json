@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426194771228",
+    "project_id": "udyogsar",
+    "storage_bucket": "udyogsar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426194771228:android:f070397a5920ce55c3aed9",
+        "android_client_info": {
+          "package_name": "com.example.udyogsar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRwP5l5oZdpaoxSVv-VVTFo07xV6cp9VA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
